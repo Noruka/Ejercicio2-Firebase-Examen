@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "541651519715",
+    "firebase_url": "https://ejercicio2-firebase-examen.firebaseio.com",
+    "project_id": "ejercicio2-firebase-examen",
+    "storage_bucket": "ejercicio2-firebase-examen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541651519715:android:d2e0c170bb508cbfd11dd6",
+        "android_client_info": {
+          "package_name": "es.guillemburnleesviada.ejercicio2_firebase_examen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541651519715-ooa0vgh8fnv85b1g6fdv3p9ovbttu96u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "es.guillemburnleesviada.ejercicio2_firebase_examen",
+            "certificate_hash": "6a32c64968b6a31291773bf09ba49019a024e3c7"
+          }
+        },
+        {
+          "client_id": "541651519715-ds6lqdeudhmdqdvvn0bbho9t2u6qrrhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIF10cH6Lv4TVU8AVoHwmroXQGIbC1mkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541651519715-ds6lqdeudhmdqdvvn0bbho9t2u6qrrhn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
